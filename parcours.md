@@ -23,10 +23,10 @@ Bac Mathématiques/NSI/Physique (abandon de la premiere), mention assez bien, Am
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025` **Projet d’étude – création d'un robot**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 04 étudiants_
+* Tout d'abord nous avons imprimé tout les pieces du robot puis nous l'avons (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
