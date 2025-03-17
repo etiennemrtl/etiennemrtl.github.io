@@ -15,7 +15,7 @@ Disponible 00 mois à partir de 2025
 
 [etienne.martel[at]etu.unilasalle.fr](mailto:etienne.martel@etu.unilasalle.fr)
 
-[LinkedIn](https://www.linkedin.com/in/etienne-martel)
+[LinkedIn]([https://www.linkedin.com/in/etienne-martel](https://www.linkedin.com/in/etienne-martel-63732a327/))
 
 Permis B, voiture
 
