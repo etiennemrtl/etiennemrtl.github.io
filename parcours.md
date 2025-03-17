@@ -8,18 +8,18 @@ download_cv: assets/docs/Template_CV.pdf
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2021 – 2024`
+**Lycée de la sainte Famille Amiens**
 
-Elève ingénieur en [préciser la spécialité]
+Elève ingénieur en 1er année de prépa intégré
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+`2024 – 2029`
+**Ecole d'ingénieur [en prépa intégré]** - Unilasalle [Amiens]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+`2024`
+Bac Mathématiques/NSI/Physique (abandon de la premiere), mention assez bien, Amiens
 
 ## Expériences
 
@@ -38,27 +38,26 @@ _Stage – intitulé du poste_
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 * Description des missions (outils utilisés, réalisations, chiffres clés)
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
-
+* LV1 Anglais : B1 (TOEIC)
+* LV2 Espagnol : A2
+* LV3 Japonais : A1
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* VEGAS PRO
+* Photoshop
+* Github
+* Kicad
+* OneShape
+  
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Permis B
 
 ## Centres d’intérêt
 
-Loisirs 1
+Sport
 * Description 
 * Description 
 
