@@ -58,8 +58,7 @@ Autres
 ## Centres d’intérêt
 
 Sport
-* Description 
-* Description 
+* J'ai pratiqué pendant 5 ans le basket / 5 ans de football / 2 ans de tennis / 4 ans de natation 
 
 Loisirs 1
 * Description 
