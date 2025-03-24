@@ -44,6 +44,7 @@ Langues
 * LV1 Anglais : B1 (TOEIC)
 * LV2 Espagnol : A2
 * LV3 Japonais : A1
+
 Informatique
 * VEGAS PRO
 * Photoshop
